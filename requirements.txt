@@ -14,7 +14,7 @@ backcall==0.2.0
 beautifulsoup4==4.12.2
 bleach==6.0.0
 cachetools==5.3.1
-catboost==0.26
+catboost
 certifi==2023.7.22
 cffi==1.16.0
 charset-normalizer==3.3.0
@@ -87,7 +87,7 @@ oauthlib==3.2.2
 opt-einsum==3.3.0
 overrides==7.4.0
 packaging==23.2
-pandas==2.1.1
+pandas==1.5.3
 pandocfilters==1.5.0
 parso==0.8.3
 Pebble==5.0.3
